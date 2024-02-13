@@ -15,4 +15,4 @@ F = (9/5 * C) + 32
 - `Test the program` and correct any syntax errors.<br>
 - `Run the predefined tests` (click checkmark in the left column
 under Tools) and correct any remaining logic errors.<br>
-- `Submit` the code on Replit.
+
