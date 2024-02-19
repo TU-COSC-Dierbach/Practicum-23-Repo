@@ -4,14 +4,14 @@
 
 ### BACKGROUND
 The provided Temperature class is meant to store a
-temperature (in Celsius) and provide getter methods
+temperature in Celsius and provide getter methods
 that return the temperature in either Celsius or Fahrenheit.
 
 Formula for converting Celsius to Fahrenheit:
 F = (9/5 * C) + 32
 <br>
 ### WHAT TO DO
-- `Provide the getter methods` in the Temperature class. <br>
+- `Provide the getter methods` in the Temperature class for getting the temperasture in both Celsius and Fahrenheit <br>
 - `Test the program` and correct any syntax errors.<br>
 - `Run the predefined tests` (click checkmark in the left column
 under Tools) and correct any remaining logic errors.<br>
