@@ -5,7 +5,7 @@
 ### BACKGROUND
 The provided Temperature class is meant to store a
 temperature (in Celsius) and provide getter methods
-that return the temperature in either Celcius or Fahrenheit.
+that return the temperature in either Celsius or Fahrenheit.
 
 Formula for converting Celsius to Fahrenheit:
 F = (9/5 * C) + 32
