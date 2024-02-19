@@ -1,5 +1,5 @@
 public class Temperature {
-  private double temperature;
+  private double temperature;  // temperature stored in degrees celsius
 
   // constructor
   public Temperature(double t) {
