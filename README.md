@@ -1,6 +1,6 @@
 # Instructions  
 
-## PRACTICUM 23 - Getters/Setters (5 pts.)<br>
+## PRACTICUM 23 - Getters/Setters<br>
 
 ### BACKGROUND
 The provided Temperature class is meant to store a
